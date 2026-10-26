@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Oct 26 00:39:53 UTC 2026","Mon Oct 26 00:39:53 UTC 2026","0","tests.ui.tests","test_port_setup","","","","test_open_port_setup_page",""
+"broken","Mon Oct 26 00:40:24 UTC 2026","Mon Oct 26 00:40:24 UTC 2026","0","tests.ui.tests","test_port_setup","","","","test_update_numeric_fields",""
+"broken","Mon Oct 26 00:40:54 UTC 2026","Mon Oct 26 00:40:54 UTC 2026","0","tests.ui.tests","test_port_setup","","","","test_cancel_button",""
+"broken","Mon Oct 26 00:39:23 UTC 2026","Mon Oct 26 00:39:23 UTC 2026","0","tests.ui.tests","test_login","","","","test_logout","Test logout functionality and returning to login page."
+"broken","Mon Oct 26 00:38:23 UTC 2026","Mon Oct 26 00:38:53 UTC 2026","30003","tests.ui.tests","test_login","","","","test_login_page_elements_before_login","Check that all login page elements are visible before login."
+"broken","Mon Oct 26 00:38:53 UTC 2026","Mon Oct 26 00:39:23 UTC 2026","30003","tests.ui.tests","test_login","","","","test_login","User can log in successfully and see expected elements."
+"broken","Mon Oct 26 00:41:24 UTC 2026","Mon Oct 26 00:41:24 UTC 2026","0","tests.ui.tests","test_port_setup","","","","test_change_all_roles_and_toggle",""
